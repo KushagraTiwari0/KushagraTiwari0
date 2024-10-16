@@ -1,4 +1,6 @@
-<h1 align="center" style="font-size: 36px;">Hi 👋, I'm Kushagra Tiwari</h1>
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" width="4000"/>
+
+<h1 align="center" style="font-size: 36px;">Hi <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px">, I'm Kushagra Tiwari</h1>
 <h3 align="center" style="font-size: 28px;">A passionate developer and learner</h3>
 
 <table>
