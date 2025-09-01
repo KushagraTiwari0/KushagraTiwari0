@@ -7,7 +7,7 @@
   <tr>
     <td>
       <ul style="font-size: 18px;">
-        <li>🔭 I’m currently working on <a href="https://github.com/KushagraTiwari0/Blogging-website-Frontend"><b>Blogging-website-Frontend</b></a></li>
+        <li>🔭 I’m currently working on <a href="https://github.com/KushagraTiwari0/Ai-Background-Remover"><b>Payment-Gateway-Integration</b></a></li>
         <li>🌱 I’m currently learning <b>React, Node.js, MongoDB</b></li>
         <li>👯 I’m looking to collaborate on <b>Open Source Projects</b></li>
         <li>💬 Ask me about <b>React, Java, C, Python</b></li>
